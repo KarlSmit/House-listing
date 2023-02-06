@@ -22,4 +22,4 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/). -->
-### Making this project as a assesment for a job interview
+### Making this project as a assesment for a intership interview 
